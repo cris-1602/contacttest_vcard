@@ -1,2 +1,2 @@
-# contacttest_vcard
+# BEGINVCARD (1).vcf
 contact test
